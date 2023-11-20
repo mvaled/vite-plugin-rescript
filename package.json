@@ -1,5 +1,5 @@
 {
-  "name": "@jihchi/vite-plugin-rescript",
+  "name": "@mvaled/vite-plugin-rescript",
   "version": "5.3.1",
   "keywords": [
     "rollup-plugin",
@@ -8,10 +8,10 @@
     "ReasonML",
     "BuckleScript"
   ],
-  "homepage": "https://github.com/jihchi/vite-plugin-rescript",
+  "homepage": "https://github.com/mvaled/vite-plugin-rescript",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jihchi/vite-plugin-rescript.git"
+    "url": "https://github.com/mvaled/vite-plugin-rescript.git"
   },
   "license": "MIT",
   "author": "jihchi",

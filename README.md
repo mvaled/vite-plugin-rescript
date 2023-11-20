@@ -1,4 +1,12 @@
-# @jihchi/vite-plugin-rescript
+# Fork of @jihchi/vite-plugin-rescript
+
+---
+
+This is very simple fork and I claim no major authorship in this or the original project.  The only change is that this fork doesn't restrict node versions beyond 18 (PR [#34](https://github.com/jihchi/vite-plugin-rescript/pull/34)) so that developers can use whatever rolling release they like.
+
+That's I don't even update the instruction below and keep the original README as it.
+
+---
 
 [![Workflows - CI][workflows-ci-shield]][workflows-ci-url]
 [![npm package][npm-package-shield]][npm-package-url]
